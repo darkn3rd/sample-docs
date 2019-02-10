@@ -1,0 +1,5 @@
+site_name: Cloud Studies
+nav:
+    - Home: index.md
+    - About: about.md
+theme: material
